@@ -1,0 +1,21 @@
+
+
+
+input[type='text']
+{
+    height:37px;
+}
+@media screen and (max-width:575px)
+{
+    .centre
+    {
+    
+        text-align: center;
+        
+
+    }
+    
+    
+    
+    
+}
